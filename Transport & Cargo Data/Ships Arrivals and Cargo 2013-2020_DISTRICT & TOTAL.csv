@@ -1,0 +1,33 @@
+Year,District,No. Ships,Total Passengers,Transit Passengers,Imports Total G.C.W (M/T),Transit Cargo G.C.W. (M/T),Notes
+2013,LIMASSOL,3014,166068,115406,2421347,615190,It includes Moni/Akrotiri
+2013,LARNACA,886,53982,53982,2629174,0,It includes Vasiliko/Zigi and Dekeleia
+2013,PAPHOS,284,:,:,:,:,
+2013,TOTAL,4184,222050,169388,5050521,615190,Imports total includes the trasit cargo
+2014,LIMASSOL,2441,100414,63299,2275625,311925,It includes Moni/Akrotiri
+2014,LARNACA,980,43392,43392,2986565,0,It includes Vasiliko/Zigi and Dekeleia
+2014,PAPHOS,220,:,:,:,:,
+2014,TOTAL,3641,143806,106691,5262190,311925,Imports total includes the trasit cargo
+2015,LIMASSOL,2386,104174,69549,2397868,405076,It includes Moni/Akrotiri
+2015,LARNACA,1048,33061,104174,4339686,0,It includes Vasiliko/Zigi and Dekeleia
+2015,PAPHOS,196,:,:,:,:,
+2015,TOTAL,3630,137235,173723,6737554,405076,Imports total includes the trasit cargo
+2016,LIMASSOL,2149,82312,53973,3009943,685708,It includes Moni/Akrotiri
+2016,LARNACA,1118,24460,24460,4234259,0,It includes Vasiliko/Zigi and Dekeleia
+2016,PAPHOS,182,:,:,:,:,
+2016,TOTAL,3449,106772,78433,7244202,685708,Imports total includes the trasit cargo
+2017,LIMASSOL,2300,63831,53141,2908035,459259,It includes Moni/Akrotiri
+2017,LARNACA,1367,21951,21951,4899174,0,It includes Vasiliko/Zigi and Dekeleia
+2017,PAPHOS,190,:,:,:,:,
+2017,TOTAL,3857,85782,75092,7807209,459259,Imports total includes the trasit cargo
+2018,LIMASSOL,2133,39670,27072,3127410,543071,It includes Moni/Akrotiri
+2018,LARNACA,1365,23729,23729,4923006,0,It includes Vasiliko/Zigi and Dekeleia
+2018,PAPHOS,217,:,:,:,:,
+2018,TOTAL,3715,63399,50801,8050416,543071,Imports total includes the trasit cargo
+2019,LIMASSOL,2423,88336,51847,3059474,313608,It includes Moni/Akrotiri
+2019,LARNACA,1091,25649,25649,4096286,0,It includes Vasiliko/Zigi and Dekeleia
+2019,PAPHOS,203,:,:,:,:,
+2019,TOTAL,3717,113985,77496,7155760,313608,Imports total includes the trasit cargo
+2020,LIMASSOL,1914,9089,4305,2925831,297628,It includes Moni/Akrotiri
+2020,LARNACA,614,920,920,4493726,0,It includes Vasiliko/Zigi and Dekeleia
+2020,PAPHOS,71,:,:,:,:,
+2020,TOTAL,2599,10009,5225,7419557,297628,Imports total includes the trasit cargo
