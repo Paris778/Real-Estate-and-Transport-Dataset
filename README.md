@@ -1,4 +1,4 @@
-# Cyprus-Real-Estate-and-Transport-Dataset
+# Real-Estate-and-Transport-Dataset
 
 The small island nation of the republic of Cyprus is a major financial center in West Europe and the Medditerrenean, having drawn investments from global industry giants and counties such as Russia during the recent years, especially in the field of Real Estate.
 Its appealing tax policies has inspired international firms and businesses to move to Cyprus such as Wargaming Group Ltd.
@@ -9,7 +9,7 @@ Specific Information about each dataset is written under the relevant sub titles
 ### Datasat Purpose
 
 The small size of Cyprus makes it an interesting case study to learn and explore techniques in Information Visualisation (InfoViz) by drawing maps with interactive data bubbles.
-For this purpose I included some high resolution pictures of the map of Cyprus in the relevant folder.
+For this purpose I included some high resolution pictures of the map of Cyprus in the relevant folder. <br> </br>
 These datasets contain open source data from the Republic and aim to inspire research and education in the fields of Computer Science, Data Science, Statistics and Data Viduaisation.
 
 ## Real Estate Dataset
@@ -25,3 +25,4 @@ These datasets contain open source data from the Republic and aim to inspire res
 
 
 ### License
+[MIT](https://choosealicense.com/licenses/mit/)
