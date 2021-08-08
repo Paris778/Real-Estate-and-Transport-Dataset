@@ -4,6 +4,7 @@ The small island nation of the republic of Cyprus is a major financial center in
 Its appealing tax policies has inspired international firms and businesses to move to Cyprus such as Wargaming Group Ltd.
 
 This repository contains a series of Datasets regarding real estate prices, mortgages, as well as total imports, and some tourism data.
+Specific Information about each dataset is written under the relevant sub titles below. 
 
 ### Datasat Purpose
 
