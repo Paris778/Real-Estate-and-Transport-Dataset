@@ -8,7 +8,8 @@ This repository contains a series of Datasets regarding real estate prices, mort
 ### Datasat Purpose
 
 The small size of Cyprus makes it an interesting case study to learn and explore techniques in Information Visualisation (InfoViz) by drawing maps with interactive data bubbles.
-This dataset contains open source data from the Republic and aims to inspire research and education in the fields of Computer Science, Data Science, Statistics and Data Viduaisation.
+For this purpose I included some high resolution pictures of the map of Cyprus in the relevant folder.
+These datasets contain open source data from the Republic and aim to inspire research and education in the fields of Computer Science, Data Science, Statistics and Data Viduaisation.
 
 ## Real Estate Dataset
 
